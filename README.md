@@ -35,8 +35,9 @@ Some of my projects available on GitHub:
 ---
 
 ## 🔹 How to Reach Me
-- Email: sangar@example.com  
+- Email: sangarincs1@gmail.com  
 - LinkedIn: [linkedin.com/in/sangarkhan](https://www.linkedin.com/in/sangarkhan)
+- 0092-3189223882
 
 ---
 
