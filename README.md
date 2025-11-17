@@ -13,6 +13,11 @@ I enjoy creating projects that improve my skills and demonstrate practical solut
 
 ---
 
+## 🔹 Certifications
+- **Full-Stack Web Development (MERN) Certificate** – Meta via Coursera
+- **Web Development Internship Certificate** – ABASYN University, Peshawar
+
+---
 ## 🔹 Skills
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React, Vite
 - **Backend:** Node.js, Express.js
