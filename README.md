@@ -6,7 +6,7 @@ I love creating projects that solve problems, improve user experience, and help 
 
 ## 🔹 Experience
 
-### 4-Month Internship – Web Developer
+### 6-Month Internship – Web Developer
 **ABASYN University, Peshawar (Abasyn Incubation Center)**
 - Contributed to a **complete MERN E-Commerce Application – EverMart**
 - Worked with real workflows, API development, authentication, admin panel & deployment
@@ -17,18 +17,18 @@ I love creating projects that solve problems, improve user experience, and help 
 
 ## 🔹 Live Project
 
-### 🚀 EverMart – MERN E-Commerce App (Frontend Live)
+### 🚀 EverMart – MERN E-Commerce App 
 🛒 Live Demo: **https://sangardev.github.io/EverMart/**  
 Built with React, Redux Toolkit, Tailwind, Stripe Checkout (test mode), and modern UI/UX.
 
 ---
 
 ## 🔹 Certifications
-- **Full-Stack Web Development (MERN)** – Meta (Coursera)
-- **Project Management** – Google (Coursera)
-- **Web Development Internship Certificate** – ABASYN University, Peshawar
-- **Introduction to Cybersecurity** – Cisco Networking Academy, Abasyn University
-- **Foundations of Cybersecurity** – Google (Coursera)
+- **Full-Stack Web Development (MERN)** – Meta (Coursera).
+- **Project Management** – Google (Coursera).
+- **Web Development Internship Certificate** – ABASYN University, Peshawar.
+- **Introduction to Cybersecurity** – Cisco Networking Academy, Abasyn University.
+- **Foundations of Cybersecurity** – Google (Coursera).
 
 ---
 
