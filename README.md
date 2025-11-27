@@ -6,7 +6,7 @@ I enjoy creating projects that improve my skills and demonstrate practical solut
 ---
 
 ## 🔹 Experience
-- **4-Month Internship** at **ABASYN University, Peshawar** (Abasyn Incubation Center)  
+- **4-Month Internship** at **ABASYN University, Peshawar** (Abasyn Incubation Center).  
   Role: Web Developer  
   - Built a **full MERN e-commerce project** during the internship.  
   - Received a certificate of completion for the internship.
