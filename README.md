@@ -5,13 +5,13 @@ I love creating projects that solve problems, improve user experience, and help 
 ---
 
 ## 🔹 Experience
+6-Month Internship – Web Developer  
+ABASYN University, Peshawar (Abasyn Incubation Center)  
+- Built a complete MERN E-Commerce Application – EverMart  
+- Developed APIs, authentication, and admin panel functionalities  
+- Deployed the application and gained hands-on production-level experience  
+- Received official Internship Certificate
 
-### 6-Month Internship – Web Developer
-**ABASYN University, Peshawar (Abasyn Incubation Center)**
-- Contributed to a **complete MERN E-Commerce Application – EverMart**
-- Worked with real workflows, API development, authentication, admin panel & deployment
-- Gained hands-on experience with team collaboration and production-level coding
-- Received official **Internship Certificate**
 
 ---
 
