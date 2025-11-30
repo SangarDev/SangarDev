@@ -61,6 +61,11 @@ Built with React, Redux Toolkit, Tailwind, Stripe Checkout (test mode), and mode
 Full-stack project built during internship with complete user-side + admin-side features.  
 👉 Live Frontend: https://sangardev.github.io/EverMart/
 
+### 🔸 Movie Explorer
+React + Vite project to explore movies using the OMDb API. Search movies, view details, and enjoy a clean responsive UI.  
+👉 Live Demo: https://sangardev.github.io/movie-explorer/  
+⚠️ Note: If you fork or download this project, you must use your own OMDb API key.
+
 ### 🔸 Expense Tracker
 A modern React Expense Tracker with LocalStorage persistence and clean UI.  
 👉 GitHub: [expense-tracker](https://github.com/SangarDev/expense-tracker)
