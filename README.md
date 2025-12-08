@@ -70,6 +70,12 @@ React + Vite project to explore movies using the OMDb API. Search movies, view d
 A modern React Expense Tracker with LocalStorage persistence and clean UI.  
 👉 GitHub: [expense-tracker](https://github.com/SangarDev/expense-tracker)
 
+### 🔸 MyShop – React Shopping Cart
+A modern React shopping cart with **Bootstrap, local storage, toast notifications**, and **Context API** for state management.  
+Add products, increase/decrease quantity, remove items, and view live cart summary.  
+👉 Live Demo: https://sangardev.github.io/shopping-cart/  
+👉 GitHub: [shopping-cart](https://github.com/SangarDev/shopping-cart)
+
 ### 🔸 React Lottery Game
 Generates random tickets & declares winners.  
 👉 GitHub: [react-lottery-game](https://github.com/SangarDev/react-lottery-game)
