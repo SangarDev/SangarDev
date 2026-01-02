@@ -62,24 +62,28 @@ Built with React, Redux Toolkit, Tailwind, Stripe Checkout (test mode), and mode
 
 ### 🔸 Own_Network_Security_Monitor
 Python console-based tool for ethically monitoring devices connected to a user's own Wi-Fi network.
-👉 GitHub:https://github.com/SangarDev/local_network_scanner/
+👉 GitHub: https://github.com/SangarDev/local_network_scanner/
+
 
 ### 🔸 Flask Todo-pp
 A simple Python Flask web app for managing personal tasks with add, edit, delete, and status tracking.
-👉 Live Frontend: https://github.com/SangarDev/flask-todo-advanced/
+👉 GitHub: https://github.com/SangarDev/flask-todo-advanced/
+
 
 ### 🔸 Flask Student Management
 A simple Python Flask app to manage students.
-👉 Live Frontend: https://github.com/SangarDev/flask_student_management
+👉 GitHub: https://github.com/SangarDev/flask_student_management
+
 
 ### 🔸Python Employee Management
 A console-based CRUD application built with Python to manage employee records.
-👉 Live Frontend: https://github.com/SangarDev/python-employee-management
+👉 GitHub: https://github.com/SangarDev/python-employee-management
 
 
 ### 🔸 EverMart – MERN E-Commerce App
 Full-stack project built during internship with complete user-side + admin-side features.  
-👉 Live Frontend: https://sangardev.github.io/EverMart/
+👉 GitHub: https://sangardev.github.io/EverMart/
+
 
 ### 🔸 Movie Explorer
 React + Vite project to explore movies using the OMDb API. Search movies, view details, and enjoy a clean responsive UI.  
