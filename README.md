@@ -1,6 +1,7 @@
-# 👋 Hi, I'm **Sangar Khan**
-I am a **Full-Stack Web Developer (MERN)** with hands-on experience building real-world web applications.  
-I love creating projects that solve problems, improve user experience, and help me grow as a developer.
+👋 Hi, I'm Sangar Khan
+I am a Python-Focused Software Developer with strong foundations in backend development, automation, and data processing, along with hands-on experience in Full-Stack Web Development (MERN).
+
+I enjoy building practical, real-world projects using Python to automate tasks, process data, and solve everyday problems, while continuously improving my problem-solving and system design skills.
 
 ---
 
