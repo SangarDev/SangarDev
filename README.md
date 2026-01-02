@@ -25,20 +25,22 @@ Built with React, Redux Toolkit, Tailwind, Stripe Checkout (test mode), and mode
 ---
 
 ## 🔹 Certifications
-- **Full-Stack Web Development (MERN)** – Meta (Coursera).
-- **Project Management** – Google (Coursera).
+
+- **Crash Course on Python** – Google.
+- **Programming in Python** – Meta.
+- **Full-Stack Web Development (MERN)** – Meta.
+- **Project Management** – Google.
 - **Web Development Internship Certificate** – ABASYN University, Peshawar.
 - **Introduction to Cybersecurity** – Cisco Networking Academy, Abasyn University.
-- **Foundations of Cybersecurity** – Google (Coursera).
+- **Foundations of Cybersecurity** – Google.
 
 ---
 
 ## 🔹 Skills
 
 ### Frontend
-- HTML, CSS, JavaScript (ES6+)
-- React, Vite, Tailwind CSS
-- Redux Toolkit, React Router
+- Python Programming (Python, OPP, Data Structures). 
+- HTML, CSS, JavaScript (ES6+), React, React Router.
 
 ### Backend
 - Node.js, Express.js
