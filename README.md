@@ -69,14 +69,14 @@ Python console-based tool for ethically monitoring devices connected to a user's
 ### 🔸 Flask Todo-pp
 A simple Python Flask web app for managing personal tasks with add, edit, delete, and status tracking.
 
-👉 GitHub: https://github.com/SangarDev/flask-todo-advanced
+👉 GitHub:  https://github.com/SangarDev/flask-todo-app.git
 
 
 
 ### 🔸 Flask Student Management
 A simple Python Flask app to manage students.
 
-👉 GitHub: https://github.com/SangarDev/flask_student_management
+👉 GitHub: https://github.com/SangarDev/flask_student_management.git
 
 
 
