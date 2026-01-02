@@ -63,13 +63,14 @@ Built with React, Redux Toolkit, Tailwind, Stripe Checkout (test mode), and mode
 ### 🔸 Own_Network_Security_Monitor
 Python console-based tool for ethically monitoring devices connected to a user's own Wi-Fi network.
 
-👉 GitHub: https://github.com/SangarDev/local_network_scanner/
+👉 GitHub: https://github.com/SangarDev/local_network_scanner
 
 
 ### 🔸 Flask Todo-pp
 A simple Python Flask web app for managing personal tasks with add, edit, delete, and status tracking.
 
-👉 GitHub: https://github.com/SangarDev/flask-todo-advanced/
+👉 GitHub: https://github.com/SangarDev/flask-todo-advanced
+
 
 
 ### 🔸 Flask Student Management
@@ -78,10 +79,12 @@ A simple Python Flask app to manage students.
 👉 GitHub: https://github.com/SangarDev/flask_student_management
 
 
+
 ### 🔸Python Employee Management
 A console-based CRUD application built with Python to manage employee records.
 
 👉 GitHub: https://github.com/SangarDev/python-employee-management
+
 
 
 ### 🔸 EverMart – MERN E-Commerce App
@@ -89,14 +92,19 @@ Full-stack project built during internship with complete user-side + admin-side 
 👉 GitHub: https://sangardev.github.io/EverMart/
 
 
+
 ### 🔸 Movie Explorer
 React + Vite project to explore movies using the OMDb API. Search movies, view details, and enjoy a clean responsive UI.  
 👉 Live Demo: https://sangardev.github.io/movie-explorer/  
 ⚠️ Note: If you fork or download this project, you must use your own OMDb API key.
 
+
+
 ### 🔸 Expense Tracker
 A modern React Expense Tracker with LocalStorage persistence and clean UI.  
 👉 GitHub: [expense-tracker](https://github.com/SangarDev/expense-tracker)
+
+
 
 ### 🔸 MyShop – React Shopping Cart
 A modern React shopping cart with **Bootstrap, local storage, toast notifications**, and **Context API** for state management.  
@@ -104,21 +112,31 @@ Add products, increase/decrease quantity, remove items, and view live cart summa
 👉 Live Demo: https://sangardev.github.io/shopping-cart/  
 👉 GitHub: [shopping-cart](https://github.com/SangarDev/shopping-cart)
 
+
+
 ### 🔸 React Lottery Game
 Generates random tickets & declares winners.  
 👉 GitHub: [react-lottery-game](https://github.com/SangarDev/react-lottery-game)
+
+
 
 ### 🔸 React Todo App
 A React-based task manager with add/update/delete features.  
 👉 GitHub: [react-todo-app](https://github.com/SangarDev/react-todo-app)
 
+
+
 ### 🔸 Simon Says Game
 Interactive memory game using HTML, CSS, JS.  
 👉 GitHub: [simon-says-game](https://github.com/SangarDev/simon-says-game)
 
+
+
 ### 🔸 Photography Website
 Responsive portfolio layout with sidebar navigation.  
 👉 GitHub: [photography-website](https://github.com/SangarDev/photography-website)
+
+
 
 ### 🔸 Spotify Clone
 Frontend UI clone of Spotify using HTML & CSS.  
