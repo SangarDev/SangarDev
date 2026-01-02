@@ -63,7 +63,7 @@ Built with React, Redux Toolkit, Tailwind, Stripe Checkout (test mode), and mode
 ### 🔸 Own_Network_Security_Monitor
 Python console-based tool for ethically monitoring devices connected to a user's own Wi-Fi network.
 
-👉 GitHub: https://github.com/SangarDev/local_network_scanner
+👉 GitHub: https://github.com/SangarDev/own_network_security_monitor.git
 
 
 ### 🔸 Flask Todo-pp
