@@ -1,155 +1,126 @@
-## 👋 Hi, I'm Sangar
-I am a Python-Focused Software Developer with strong foundations in backend development, automation, and data processing, along with hands-on experience in Full-Stack Web Development (MERN).
+# 👋 Hi, I'm Sangar
 
-I enjoy building practical, real-world projects using Python to automate tasks, process data, and solve everyday problems, while continuously improving my problem-solving and system design skills.
+🚀 **Python-Focused Backend Developer | Odoo ERP | Business Process Automation**
 
----
+I specialize in building scalable backend systems using **Python**, with professional experience in **Odoo ERP development**, workflow automation, and structured business logic implementation.
 
-## 🔹 Experience
-6-Month Internship – Web Developer  
-ABASYN University, Peshawar (Abasyn Incubation Center)  
-- Built a complete MERN E-Commerce Application – EverMart  
-- Developed APIs, authentication, and admin panel functionalities  
-- Deployed the application and gained hands-on production-level experience  
-- Received official Internship Certificate
-
+My foundation in Full-Stack Web Development (MERN) strengthens my understanding of system architecture, API design, and frontend–backend integration — but my primary focus is backend engineering and enterprise systems.
 
 ---
 
-## 🔹 Live Project
+## 🔹 Professional Focus
 
-### 🚀 EverMart – MERN E-Commerce App 
-🛒 Live Demo: **https://sangardev.github.io/EverMart/**  
-Built with React, Redux Toolkit, Tailwind, Stripe Checkout (test mode), and modern UI/UX.
+- Odoo Module Development (Built from scratch)
+- Python Backend Engineering
+- ERP System Implementation
+- Business Workflow Automation
+- PostgreSQL Database Optimization
+- RESTful API Design
+- Linux-Based Deployment
+
+---
+
+## 🔹 Professional Experience
+
+### 🏢 Odoo Techno Consultant  
+**NerithonX Technologies (Pvt.) Ltd.**
+
+- Develop and implement custom Odoo modules
+- Design structured business workflows
+- Automate operational processes
+- Optimize PostgreSQL databases in production
+- Generate QWeb reports
+- Deploy applications in Linux/Ubuntu environments
+
+---
+
+### 🎓 6-Month Full-Stack Web Development Internship  
+**Abasyn Incubation Center – Abasyn University**
+
+- Built a complete MERN E-Commerce Application – *EverMart*
+- Developed REST APIs, authentication, and admin panel logic
+- Implemented frontend using React, Redux Toolkit & Tailwind
+- Deployed the application and gained production-level exposure
+- Awarded official Internship Certificate
+
+This internship marked the beginning of my professional journey and strengthened my problem-solving and system design skills.
+
+---
+
+## 🔹 Key Projects
+
+### 🔸 ERP / Backend-Oriented Work
+- Python-based automation scripts
+- Structured backend system logic
+- Database-driven application design
+
+### 🚀 EverMart – MERN E-Commerce Application  
+🛒 Live Demo: https://sangardev.github.io/EverMart/
+
+Built with:
+- React
+- Redux Toolkit
+- Tailwind CSS
+- Stripe Checkout (Test Mode)
+- Node.js & Express
+- MongoDB
+
+---
+
+## 🔹 Technical Skills
+
+### 🖥 Backend & Systems
+- Python
+- Odoo Framework
+- PostgreSQL
+- REST APIs
+- Business Process Automation
+- System Design
+
+### 🎨 Frontend
+- JavaScript (ES6+)
+- React.js
+- HTML
+- CSS
+- Responsive Design
+
+### 🛠 Tools & Environment
+- Git & GitHub
+- Linux / Ubuntu
+- VS Code
+- Deployment (GitHub Pages, Render, Netlify)
 
 ---
 
 ## 🔹 Certifications
 
-- **Crash Course on Python** – Google.
-- **Programming in Python** – Meta.
-- **Full-Stack Web Development (MERN)** – Meta.
-- **Project Management** – Google.
-- **Web Development Internship Certificate** – ABASYN University, Peshawar.
-- **Introduction to Cybersecurity** – Cisco Networking Academy, Abasyn University.
-- **Foundations of Cybersecurity** – Google.
+- Crash Course on Python – Google
+- Programming in Python – Meta
+- Full-Stack Web Development (MERN) – Meta
+- Project Management – Google
+- Web Development Internship Certificate – Abasyn University
+- Introduction to Cybersecurity – Cisco Networking Academy
+- Foundations of Cybersecurity – Google
 
 ---
 
-## 🔹 Skills
+## 📈 Current Focus
 
-### Frontend
-- Python Programming (Python, OPP, Data Structures). 
-- HTML, CSS, JavaScript (ES6+), React, React Router.
+I am continuously strengthening my expertise in:
 
-### Backend
-- Node.js, Express.js
-- REST APIs, JWT Authentication
-
-### Database
-- MongoDB, Mongoose
-
-### Tools & Other Skills
-- Git & GitHub
-- VS Code
-- Responsive Design
-- UI/UX Basics
-- Deployment (GitHub Pages, Render, Netlify)
+- Advanced Python system architecture
+- Scalable ERP development
+- Backend performance optimization
+- Clean, maintainable software design
 
 ---
 
-## 🔹 Projects
+### 💡 Open To
 
-### 🔸 Own_Network_Security_Monitor
-Python console-based tool for ethically monitoring devices connected to a user's own Wi-Fi network.
+Part-time and contract-based remote opportunities involving:
 
-👉 GitHub: https://github.com/SangarDev/own_network_security_monitor.git
-
-
-### 🔸 Flask Todo-pp
-A simple Python Flask web app for managing personal tasks with add, edit, delete, and status tracking.
-
-👉 GitHub:  https://github.com/SangarDev/flask-todo-app.git
-
-
-
-### 🔸 Flask Student Management
-A simple Python Flask app to manage students.
-
-👉 GitHub: https://github.com/SangarDev/flask_student_management.git
-
-
-
-### 🔸Python Employee Management
-A console-based CRUD application built with Python to manage employee records.
-
-👉 GitHub: https://github.com/SangarDev/python-employee-management
-
-
-
-### 🔸 EverMart – MERN E-Commerce App
-Full-stack project built during internship with complete user-side + admin-side features.  
-👉 GitHub: https://sangardev.github.io/EverMart/
-
-
-
-### 🔸 Movie Explorer
-React + Vite project to explore movies using the OMDb API. Search movies, view details, and enjoy a clean responsive UI.  
-👉 Live Demo: https://sangardev.github.io/movie-explorer/  
-⚠️ Note: If you fork or download this project, you must use your own OMDb API key.
-
-
-
-### 🔸 Expense Tracker
-A modern React Expense Tracker with LocalStorage persistence and clean UI.  
-👉 GitHub: [expense-tracker](https://github.com/SangarDev/expense-tracker)
-
-
-
-### 🔸 MyShop – React Shopping Cart
-A modern React shopping cart with **Bootstrap, local storage, toast notifications**, and **Context API** for state management.  
-Add products, increase/decrease quantity, remove items, and view live cart summary.  
-👉 Live Demo: https://sangardev.github.io/shopping-cart/  
-👉 GitHub: [shopping-cart](https://github.com/SangarDev/shopping-cart)
-
-
-
-### 🔸 React Lottery Game
-Generates random tickets & declares winners.  
-👉 GitHub: [react-lottery-game](https://github.com/SangarDev/react-lottery-game)
-
-
-
-### 🔸 React Todo App
-A React-based task manager with add/update/delete features.  
-👉 GitHub: [react-todo-app](https://github.com/SangarDev/react-todo-app)
-
-
-
-### 🔸 Simon Says Game
-Interactive memory game using HTML, CSS, JS.  
-👉 GitHub: [simon-says-game](https://github.com/SangarDev/simon-says-game)
-
-
-
-### 🔸 Photography Website
-Responsive portfolio layout with sidebar navigation.  
-👉 GitHub: [photography-website](https://github.com/SangarDev/photography-website)
-
-
-
-### 🔸 Spotify Clone
-Frontend UI clone of Spotify using HTML & CSS.  
-👉 GitHub: [spotify](https://github.com/SangarDev/spotify)
-
----
-
-## 🔹 How to Reach Me
-📧 Email: **sangarincs1@gmail.com**  
-🔗 LinkedIn: **linkedin.com/in/sangarkhan**  
-📱 WhatsApp: **+92 318 9223882**
-
----
-
-💡 **I am continuously building projects, improving my MERN skills, and exploring advanced backend development.**  
-Always open to collaboration & opportunities!
+- Odoo Development
+- Python Backend Engineering
+- ERP Implementation
+- Workflow Automation
+- Database Optimization
