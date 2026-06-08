@@ -190,6 +190,10 @@ Part-time and contract-based remote opportunities involving:
 
 ### 📫 Contact
 
-**Email:** [sangarincs1@gmail.com](mailto:sangarincs1@gmail.com)
 
 **GitHub:** https://github.com/SangarDev
+
+**LinkedIn:** www.linkedin.com/in/sangar-tech
+
+**Email:** [sangarincs1@gmail.com](mailto:sangarincs1@gmail.com)
+
