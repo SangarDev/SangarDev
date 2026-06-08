@@ -144,8 +144,8 @@ Custom Odoo website ecosystem featuring:
 * VS Code
 * PostgreSQL
 * GitHub Pages
-* Render
-* Netlify
+* Remote Development
+* Development Environment Setup
 
 ---
 
